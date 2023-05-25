@@ -1,0 +1,104 @@
+/* /Pages/Bio.razor.rz.scp.css */
+.page[b-wku0udckwk] {
+    background-color: rgb(245, 175, 175);
+    padding: 10pt 30pt;
+    border-radius: 8pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title[b-wku0udckwk] {
+    color: rgb(134, 79, 7);
+    margin-bottom: 30pt;
+    padding: 10pt;
+}
+
+.par[b-wku0udckwk] {
+    background-color: white;
+    border-radius: 8pt;
+    margin-bottom: 10pt;
+    padding: 20pt;
+    text-align: justify;
+    text-indent: 30pt;
+    overflow: auto;
+    font-size: larger;
+}
+
+.img[b-wku0udckwk] {
+    float: right;
+    padding: 0 0 10pt 10pt;
+    max-width: 25%;
+}
+/* /Pages/Pet.razor.rz.scp.css */
+.page[b-ou3mnbi8uf] {
+    background-color: rgb(185, 247, 213);
+    padding: 10pt 30pt;
+    border-radius: 8pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title[b-ou3mnbi8uf] {
+    margin-bottom: 30pt;
+    padding: 10pt;
+    color: rgb(73, 141, 6);
+    font-family: cursive;
+    text-align: center;
+}
+
+.proj[b-ou3mnbi8uf] {
+    background: linear-gradient(23deg, rgba(255, 255, 255, 0.6) 0%, rgba(156, 191, 236, 0.6) 10%, rgba(159, 240, 243, 0.6) 30%, rgba(159, 240, 243, 0.6) 70%, rgba(99, 161, 241, 0.6) 90%, rgba(255, 255, 255, 0.6) 100%);
+    border-radius: 8pt;
+    box-shadow: 0 0 20pt rgba(0,0,0,0.5);
+    margin-bottom: 20pt;
+    padding: 30pt;
+    text-align: justify;
+    overflow: auto;
+}
+
+.year[b-ou3mnbi8uf] {
+    color: darkblue;
+    text-align: left;
+}
+
+.tech[b-ou3mnbi8uf] {
+    color: red;
+    text-align: left;
+}
+
+.name[b-ou3mnbi8uf] {
+    color: green;
+    text-align: left;
+}
+
+.remark[b-ou3mnbi8uf] {
+    padding-left: 10pt;
+    color: darkolivegreen;
+}
+
+.desc[b-ou3mnbi8uf] {
+    padding-left: 10pt;
+}
+
+.link[b-ou3mnbi8uf] {
+    float: right;
+    padding-left: 10pt;
+    font-size: smaller;
+    font-style: italic;
+    color: purple;
+    text-decoration: none;
+}
+
+.imglink[b-ou3mnbi8uf] {
+    max-width: 120pt;
+    max-height: 120pt;
+}
+
+.note[b-ou3mnbi8uf] {
+    font-size: smaller;
+    text-align: left;
+}
+
+.git[b-ou3mnbi8uf] {
+    text-align: center;
+    padding-bottom: 5%;
+    font-size: large;
+}
