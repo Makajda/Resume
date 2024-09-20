@@ -1,9 +1,10 @@
-/* /Pages/Bio.razor.rz.scp.css */
+/* _content/Resume/Pages/Bio.razor.rz.scp.css */
 .page[b-wku0udckwk] {
     background-color: rgb(245, 175, 175);
     padding: 10pt 30pt;
     border-radius: 8pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:64px;
 }
 
 .title[b-wku0udckwk] {
@@ -28,12 +29,13 @@
     padding: 0 0 10pt 10pt;
     max-width: 25%;
 }
-/* /Pages/Pet.razor.rz.scp.css */
+/* _content/Resume/Pages/Pet.razor.rz.scp.css */
 .page[b-ou3mnbi8uf] {
     background-color: rgb(185, 247, 213);
     padding: 10pt 30pt;
     border-radius: 8pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 64px;
 }
 
 .title[b-ou3mnbi8uf] {
